@@ -50,3 +50,7 @@ transition: (50vh, 50vh);
         transform: translate(50vh, 0vh);
     }
 }
+
+a {font-size: 16pt;
+    color: coral;}
+    
